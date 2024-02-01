@@ -1,0 +1,9 @@
+the output is 
+5
+5
+6
+12
+7
+7 
+because
+this is local variable in the main itself so all things in the main so it changes to 6 then 12 then 7 and it stay 7 
