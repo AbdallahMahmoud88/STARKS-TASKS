@@ -1,0 +1,6 @@
+int x=1000;
+int 4 byte -> 1000 in 4 byte 0b 00000000 00000000 00000011 11101000
+so when we ptr+1
+it will be without 11101000
+and equal 3 in int
+so the output is 1000 3

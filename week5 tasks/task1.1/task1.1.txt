@@ -1,0 +1,1 @@
+the output is 5,6 before then 6,26 in function and after 6,26 because you send the adress of the two varaibles so you can change them and stay in the main function

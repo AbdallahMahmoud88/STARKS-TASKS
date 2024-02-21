@@ -1,0 +1,2 @@
+1- pointer points to a function take one int and return a pointer to function has no input and return a pointer points to a pointer point to int 
+2- array of three pointers points to a function that has no input and returns a pointer points to another function and has no input also and returns a generic pointer  
